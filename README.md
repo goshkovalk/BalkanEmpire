@@ -35,7 +35,7 @@ Process: Select a recipe. It takes 10 Raw Ingredients to make 1 Product.
 
 Acetone: Labs need Acetone to run. Refill it for $1,000 if it gets low.
 
-#🖨️ 3. Counterfeiting (Money Printing)
+🖨️ 3. Counterfeiting (Money Printing)
 Passive income generation.
 
 Facilities: Buy a "Printing Facility".
